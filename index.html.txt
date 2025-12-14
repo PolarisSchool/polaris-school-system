@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Polaris School System | Charsadda</title>
+    <meta name="description" content="Polaris School System Charsadda – Quality education, character building, and academic excellence.">
+    <style>
+        body { margin:0; font-family: Arial, Helvetica, sans-serif; line-height:1.6; background:#f4f6f8; color:#333; }
+        header { background:#0b3c5d; color:#fff; padding:20px 0; }
+        .container { width:90%; max-width:1100px; margin:auto; }
+        nav { display:flex; justify-content:space-between; align-items:center; }
+        nav a { color:#fff; text-decoration:none; margin-left:15px; font-weight:600; }
+        .hero { background:#1d6fa5; color:#fff; padding:60px 20px; text-align:center; }
+        .section { padding:50px 0; background:#fff; margin-bottom:10px; }
+        .section h2 { color:#0b3c5d; margin-bottom:15px; }
+        .cards { display:grid; grid-template-columns: repeat(auto-fit, minmax(250px,1fr)); gap:20px; }
+        .card { background:#f9f9f9; padding:20px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.1); }
+        footer { background:#0b3c5d; color:#fff; text-align:center; padding:20px 0; }
+        .btn { display:inline-block; background:#0b3c5d; color:#fff; padding:10px 20px; border-radius:5px; text-decoration:none; margin-top:10px; }
+    </style>
+</head>
+<body>
+
+<header>
+    <div class="container">
+        <nav>
+            <h1>Polaris School System</h1>
+            <div>
+                <a href="#about">About</a>
+                <a href="#academics">Academics</a>
+                <a href="#admissions">Admissions</a>
+                <a href="#contact">Contact</a>
+            </div>
+        </nav>
+    </div>
+</header>
+
+<section class="hero">
+    <div class="container">
+        <h2>Welcome to Polaris School System</h2>
+        <p>Charsadda | Building Knowledge, Character & Confidence</p>
+    </div>
+</section>
+
+<section id="about" class="section">
+    <div class="container">
+        <h2>About Us</h2>
+        <p>Polaris School System Charsadda is committed to providing quality education in a disciplined, caring, and academically focused environment. Our aim is to nurture students intellectually, morally, and socially.</p>
+    </div>
+</section>
+
+<section id="academics" class="section">
+    <div class="container">
+        <h2>Academics</h2>
+        <div class="cards">
+            <div class="card">
+                <h3>Primary Section</h3>
+                <p>Strong foundation in basic subjects with focus on learning skills.</p>
+            </div>
+            <div class="card">
+                <h3>Middle Section</h3>
+                <p>Balanced academic and character-building curriculum.</p>
+            </div>
+            <div class="card">
+                <h3>Secondary Section</h3>
+                <p>Exam-oriented teaching with personal guidance and mentoring.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="admissions" class="section">
+    <div class="container">
+        <h2>Admissions</h2>
+        <p>Admissions are open throughout the year depending on seat availability. Parents are encouraged to visit the campus for details.</p>
+        <a class="btn" href="#contact">Contact Us</a>
+    </div>
+</section>
+
+<section id="contact" class="section">
+    <div class="container">
+        <h2>Contact Us</h2>
+        <p><strong>Polaris School System</strong></p>
+        <p>Charsadda, Khyber Pakhtunkhwa</p>
+        <p>Phone: ____________________</p>
+        <p>Email: ____________________</p>
+    </div>
+</section>
+
+<footer>
+    <div class="container">
+        <p>© 2025 Polaris School System Charsadda. All Rights Reserved.</p>
+    </div>
+</footer>
+
+</body>
+</html>
